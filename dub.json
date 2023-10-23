@@ -6,6 +6,6 @@
 	"license": "MIT",
     "targetPath": "bin",
     "dependencies": {
-
+        "vibe-d": "~>0.9.7"
     }
 }

@@ -1,19 +1,17 @@
 {
-	"recommendations": [
-		"ryuta46.multi-command",
-		"stkb.rewrap",
-		// "tabnine.tabnine-vscode",
-		// "ms-vscode.makefile-tools",
-		// formatters
-		// "xaver.clang-format",
-		// "foxundermoon.shell-format",
-		// misc
-		// "hbenl.vscode-test-explorer",
-		// "usernamehw.errorlens",
-		// "ms-vscode-remote.remote-ssh",
-		// "ms-azuretools.vscode-docker",
+    "recommendations": [
+        "ryuta46.multi-command",
+        "stkb.rewrap",
+        // "tabnine.tabnine-vscode",
+        // "ms-vscode.makefile-tools",
+        // formatters
+        // "xaver.clang-format",
+        // "foxundermoon.shell-format",
+        // misc
+        // "ms-vscode-remote.remote-ssh",
+        // "ms-azuretools.vscode-docker",
         // D
-        // "webfreak.code-d",
+        "webfreak.code-d",
         "webfreak.dlang-bundle",
-	]
+    ]
 }
