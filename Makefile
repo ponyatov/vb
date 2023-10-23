@@ -1,10 +1,13 @@
+# tool
+DC = dmd
+
 # src
 D += $(wildcard src/*.d)
 
 # all
 .PHONY: all
 all:
-	dub run
+	dub run --compiler=$(DC)
 
 # format
 .PHONY: format
