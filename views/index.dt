@@ -1,6 +1,6 @@
 doctype html
 html(lang="ru")
     head
-        title= "Vibe-D"
-    body
+        title Vibe-D
+    body(style="background:#222;")
         h1 Vibe-D
